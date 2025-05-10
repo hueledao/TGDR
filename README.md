@@ -16,9 +16,7 @@
     <br>
     <sup>1</sup>Department of Multimedia Engineering, Dongguk University, South Korea<br>
     <sup>2</sup>Electronics and Telecommunications Research Institute, Daejeon, South Korea<br>
-    <sup>3</sup>Department of Computer Science and Artificial Intelligence, Dongguk University, South Korea
-    <br>
-    
+    <sup>3</sup>Department of Computer Science and Artificial Intelligence, Dongguk University, South Korea<br>
     <br>
     (submitted in May 2025)
   </p>
