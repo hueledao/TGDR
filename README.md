@@ -12,7 +12,7 @@
     <a href="mailto:klemon@dgu.ac.kr" target="_blank">Naeun Yang</a><sup>3</sup>,
     <a href="mailto:leejy1003@etri.re.kr" target="_blank">Jooyoung Lee</a><sup>2</sup>,
     <a href="mailto:jsy@etri.re.kr" target="_blank">Seyoon Jeong</a><sup>2</sup>, and 
-    <a ref="mailto:chullee@dongguk.edu" target="_blank">Chul Lee</a><sup>1,3</sup>
+    <a href="mailto:chullee@dongguk.edu" target="_blank">Chul Lee</a><sup>1,3</sup>
     <br>
     <sup>1</sup>Department of Multimedia Engineering, Dongguk University, South Korea<br>
     <sup>2</sup>Electronics and Telecommunications Research Institute, Daejeon, South Korea<br>
@@ -27,7 +27,7 @@
 
 # Qualitative Results
 <div style="display: flex; justify-content: center;">
-  <img src="./figures/results_COCO.png" width="800">
+  <img src="./figures/results_COCO.png" width="1000">
 </div>
 
 <br>
