@@ -9,15 +9,16 @@
 
   <p align="center">
     <a href="mailto:daole@mme.dongguk.edu" target="_blank">Le Thi Hue Dao</a><sup>1</sup>,
-    <a href="mailto:klemon@dgu.ac.kr" target="_blank">Naeun Yang</a><sup>2</sup>,
-    <a href="mailto:leejy1003@etri.re.kr" target="_blank">Jooyoung Lee</a><sup>3</sup>,
-    <a href="mailto:jsy@etri.re.kr" target="_blank">Seyoon Jeong</a><sup>3</sup>, and 
-    <a href="mailto:chullee@dongguk.edu" target="_blank">Chul Lee</a><sup>1,2</sup>
+    <a href="mailto:klemon@dgu.ac.kr" target="_blank">Naeun Yang</a><sup>3</sup>,
+    <a href="mailto:leejy1003@etri.re.kr" target="_blank">Jooyoung Lee</a><sup>2</sup>,
+    <a href="mailto:jsy@etri.re.kr" target="_blank">Seyoon Jeong</a><sup>2</sup>, and 
+    <a href="mailto:chullee@dongguk.edu" target="_blank">Chul Lee</a><sup>1,3</sup>
     <br>
     <sup>1</sup>Department of Multimedia Engineering, Dongguk University, South Korea<br>
-    <sup>2</sup>Department of Computer Science and Artificial Intelligence, Dongguk University, South Korea
+    <sup>2</sup>Electronics and Telecommunications Research Institute, Daejeon, South Korea<br>
+    <sup>3</sup>Department of Computer Science and Artificial Intelligence, Dongguk University, South Korea
     <br>
-    <sup>3</sup>Electronics and Telecommunications Research Institute, Daejeon, South Korea<br>
+    
     <br>
     (submitted in May 2025)
   </p>
