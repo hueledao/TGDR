@@ -5,7 +5,7 @@
     <img src="dgu.png" alt="Logo" width="224" height="224">
   </a> -->
 
-  <h2 align="center">Text-Guided Diffusion-Based Restoration of \\ Extremely Compressed Backgrounds for VCM</h2>
+  <h2 align="center">Text-Guided Diffusion-Based Restoration of Extremely Compressed Backgrounds for VCM</h2>
 
   <p align="center">
     <a href="mailto:daole@mme.dongguk.edu" target="_blank">Le Thi Hue Dao</a><sup>1</sup>,
