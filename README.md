@@ -18,7 +18,7 @@
     <sup>2</sup>Electronics and Telecommunications Research Institute, Daejeon, South Korea<br>
     <sup>3</sup>Department of Computer Science and Artificial Intelligence, Dongguk University, South Korea<br>
     <br>
-    (submitted in May 2025)
+    (submitted in June 2025)
   </p>
 </p>
 
@@ -26,6 +26,9 @@
 
 # Qualitative Results
 <div style="display: flex; justify-content: center;">
+  <img src="./figures/COCO_1.png" width="1000">
+  <img src="./figures/COCO_2.png" width="1000">
+  <img src="./figures/results_COCO.png" width="1000">
   <img src="./figures/results_COCO.png" width="1000">
 </div>
 
