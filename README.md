@@ -28,8 +28,8 @@
 <div style="display: flex; justify-content: center;">
   <img src="./figures/COCO_1.png" width="1000">
   <img src="./figures/COCO_2.png" width="1000">
-  <img src="./figures/results_COCO.png" width="1000">
-  <img src="./figures/results_COCO.png" width="1000">
+  <img src="./figures/OID_1.png" width="1000">
+  <img src="./figures/OID_2.png" width="1000">
 </div>
 
 <br>
